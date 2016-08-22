@@ -1,2 +1,2 @@
 # py-udf-general
-General User-Defined Functions (UDFs) in Python
+General-purpose user-defined functions (UDFs) in Python
